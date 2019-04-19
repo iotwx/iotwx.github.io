@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iotwx | open source weather stations</title>
+    <link>https://40da791e.ngrok.io/</link>
+    <description>Recent content on iotwx | open source weather stations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://40da791e.ngrok.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resources</title>
+      <link>https://40da791e.ngrok.io/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://40da791e.ngrok.io/resources/</guid>
+      <description>STATION DESIGNS AND INSPIRATION 3D-Printed Stations  3D-PAWS original project and design by Martin Steinson and Paul Kucera (UCAR/COMET)[https://www.comet.ucar.edu] LTB Weather station by Rob W. Lakes on Thingiverse  PAPERS  Kodali, R. K., &amp;amp; Mandal, S. (2016, December). IoT based weather station. In 2016 International Conference on Control, Instrumentation, Communication and Computational Technologies (ICCICCT) (pp. 680-683). IEEE. [pdf]
+ Kucera, Paul, and Martin Steinson. (2017). Development of Innovative Technology to Provide Low-Cost Surface Atmospheric Observations in Data Sparse Regions.</description>
+    </item>
+    
+    <item>
+      <title>Why IoTwx?</title>
+      <link>https://40da791e.ngrok.io/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://40da791e.ngrok.io/project/</guid>
+      <description>Inspired by the 3D-PAWS project this project sets out to build upon the wonderful work already done in innovative low-cost weather sensing, to expand it into an open source IoT project.
+There is a tremendous amount of energy and innovation around automated weather stations, and now that 3D-printers and low-cost computers (e.g. Raspberry Pi, etc.) have come into popularity, there has been an explosion of experimental systems and software to control and take advantage of these technological tools to do amazing things with weather sensing.</description>
+    </item>
+    
+  </channel>
+</rss>
