@@ -25,7 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://iotwx.github.io/resources/</guid>
-      <description>Designs and Inspiration 3D-Printed Stations  3D-PAWS original project and design by Martin Steinson and Paul Kucera UCAR/COMET. The station is non-commercial, Raspberry-pi based and also &amp;gt;80% 3D-printed. LTB Weather station by Rob W. Lakes on Thingiverse.  Raspberry Pi-based Weather Stations  SkyWeather is a low-cost, commercial Raspberry Pi weather station kit for the cloud based on the SwitchDoc PiWeather board and Blynk.io. Much of is NOT 3D printed, but there are a few 3D printed parts.</description>
+      <description>AWESOME-DIY-WX  a compendium of resources for low-cost weather stations, IoT data portals and platforms and other resources: iotwx/awesome-diy-wx  STATION DESIGNS AND INSPIRATION 3D-Printed Stations  3D-PAWS original project and design by Martin Steinson and Paul Kucera (UCAR/COMET)[https://www.comet.ucar.edu] LTB Weather station by Rob W. Lakes on Thingiverse  Raspberry Pi-based Weather Stations  SkyWeather: a Raspberry Pi weather station kit for the cloud based on the PiWeather board and Blynk.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       
       <guid>https://iotwx.github.io/project/</guid>
       <description>Inspired by the 3D-PAWS project this project sets out to build upon the wonderful work already done in innovative low-cost weather sensing, to expand it into an open source IoT project.
-There is a tremendous amount of energy and innovation around automated weather stations, and now that 3D-printers and low-cost single-board computers and microcontrollers (e.g. Raspberry Pi, etc.) have come into popularity, there has been an explosion of experimental systems and software to control and take advantage of these technological tools to do amazing things with weather sensing.</description>
+There is a tremendous amount of energy and innovation around automated weather stations, and now that 3D-printers and low-cost computers (e.g. Raspberry Pi, etc.) have come into popularity, there has been an explosion of experimental systems and software to control and take advantage of these technological tools to do amazing things with weather sensing.</description>
     </item>
     
   </channel>
